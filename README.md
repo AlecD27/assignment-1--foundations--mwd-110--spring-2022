@@ -13,6 +13,7 @@ This assignment requires that you create a basic, three-page web site about you 
 2. Fork this repo(sitory). See [this video](http://code-warrior.github.io/tutorials/git/github/forking-and-cloning-at-the-github-web-site/) on how to carry out this step and step `3`.
 3. Clone your fork, using either the web site or the GitHub Desktop client.
 4. Checkout your personalized branch, the one with your name and GitHub user handle.
+5. check it
 
 ---
 
