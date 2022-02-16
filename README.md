@@ -33,18 +33,18 @@ Verify that it’s working by opening an HTML document in Atom, then saving. Err
 ---
 
 ## Directions
-* You may **not** use any libraries, such as Bootstrap, for this assignment.
-* The three pages you create *must* be `index.html`, `contact.html`, and `about.html`.
-* The `index` page must contain some basic information about you/your subject. A paragraph will suffice.
-* The `index` page must also contain an image of you/your subject. It may be `.jpg`, `.jpeg`, `.png`, `.gif`, or `.svg` and cannot be larger than 1MB in size. It *must* be placed in the `img` folder.
-* The `contact` page should contain a link to an email address and two links to social media platforms. Choose any social media platforms you please.
-* The `about` page should extend on the intro content found on the `index` page, perhaps adding one or two paragraphs.
-* Each of the three pages must contain a simple navigation that allows users to navigate between all three pages.
-* All pages must use, at the bare minimum, the following elements: `header`, `nav`, `main`, `p`, `a`, `img` and elements from the outlining algorithm.
-* The `title` and the `meta name="description"` elements must observe SEO best practices, as discussed in class, and must differ for each of the three pages.
-* Your HTML must be valid, per the [w3c-validation](https://atom.io/packages/w3c-validation) Atom package. You may also validate at [http://validator.w3.org/#validate_by_input](http://validator.w3.org/#validate_by_input).
-* Folders and files must use lowercase, combined with kebab case. For example, `do-this` or `do-this.html`. Further, no spaces in folder or file names (`not this`); no camel case (`notThis`); and, no snake case (`not_this`).
-* Ensure the axe plugin for Firefox generates a “Congratulations” message.
+Done * You may **not** use any libraries, such as Bootstrap, for this assignment.
+Done * The three pages you create *must* be `index.html`, `contact.html`, and `about.html`.
+Done * The `index` page must contain some basic information about you/your subject. A paragraph will suffice.
+Done * The `index` page must also contain an image of you/your subject. It may be `.jpg`, `.jpeg`, `.png`, `.gif`, or `.svg` and cannot be larger than 1MB in size. It *must* be placed in the `img` folder.
+Done * The `contact` page should contain a link to an email address and two links to social media platforms. Choose any social media platforms you please.
+Done * The `about` page should extend on the intro content found on the `index` page, perhaps adding one or two paragraphs.
+Done * Each of the three pages must contain a simple navigation that allows users to navigate between all three pages.
+Done * All pages must use, at the bare minimum, the following elements: `header`, `nav`, `main`, `p`, `a`, `img` and elements from the outlining algorithm.
+Done * The `title` and the `meta name="description"` elements must observe SEO best practices, as discussed in class, and must differ for each of the three pages.
+Done * Your HTML must be valid, per the [w3c-validation](https://atom.io/packages/w3c-validation) Atom package. You may also validate at [http://validator.w3.org/#validate_by_input](http://validator.w3.org/#validate_by_input).
+Done * Folders and files must use lowercase, combined with kebab case. For example, `do-this` or `do-this.html`. Further, no spaces in folder or file names (`not this`); no camel case (`notThis`); and, no snake case (`not_this`).
+Done * Ensure the axe plugin for Firefox generates a “Congratulations” message.
 
 ---
 
